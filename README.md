@@ -1,4 +1,4 @@
-#Task Tracker
+# Task Tracker
 To run firstly install dependencies:
 ```
 npm install
@@ -8,7 +8,7 @@ Run command to start server:
 npm run server
 ```
 
-##Users table
+## Users table
 
 It can be accessed through '/user' route
 
@@ -36,7 +36,7 @@ _DELETE_ user from users table
 }
 ```
 
-##Tasks table
+## Tasks table
 
 It can be accessed through '/task' route
 
