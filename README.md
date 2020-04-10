@@ -60,7 +60,7 @@ _POST_ new task JSON
 {
   "title": "",
   "description": "",
-	"status": "", // ["View", "In Progress", "Done"]
+  "status": "", // ["View", "In Progress", "Done"]
   "executor": "" // Only existing in users table
 }
 ```
@@ -70,7 +70,7 @@ _PUT_ to change existing task must be defined id of task you want to change and 
   "id": 1,
   "title": "",
   "description": "",
-	"status": "", // ["View", "In Progress", "Done"]
+  "status": "", // ["View", "In Progress", "Done"]
   "executor": "" // Only existing in users table
 }
 ```
